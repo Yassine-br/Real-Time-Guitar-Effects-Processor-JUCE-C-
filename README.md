@@ -4,7 +4,9 @@ This project is a real-time guitar effects processor built with JUCE and C++.
 It provides a simple but powerful framework to apply audio effects (gain, distortion, delay, reverb, tremolo, auto-pan, EQ, and more) to a live guitar input signal, with a responsive GUI for control and an integrated audio visualizer.
 
 🚀 Features
+
 Gain Control – Adjust input/output volume.
+
 Distortion – Add crunch and overdrive.
 Delay – Echo effect with adjustable time.
 Reverb – Simulates natural room/space acoustics.
