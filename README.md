@@ -22,6 +22,7 @@ Filter (EQ) – Shape the tone with a simple equalizer.
 Audio Visualizer – Real-time waveform/frequency display.
 
 🛠️ Technologies Used:
+
 Projucer
 
 JUCE Framework (C++ library for audio, GUI, and plugins)
