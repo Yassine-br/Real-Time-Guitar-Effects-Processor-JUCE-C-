@@ -1,3 +1,4 @@
+<img width="1917" height="1019" alt="gui png" src="https://github.com/user-attachments/assets/2462fb4f-9be8-4c9c-9b7f-690a311a1a9d" />
 🎸 Real-Time Guitar Effects Processor
 
 This project is a real-time guitar effects processor built with JUCE and C++.
