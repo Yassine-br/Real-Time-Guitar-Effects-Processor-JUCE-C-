@@ -1,4 +1,5 @@
-<img width="1917" height="1019" alt="gui png" src="https://github.com/user-attachments/assets/2462fb4f-9be8-4c9c-9b7f-690a311a1a9d" />
+![elecgui jpg](https://github.com/user-attachments/assets/884303bd-c5f6-4cc4-9773-4057d7822f94)
+
 🎸 Real-Time Guitar Effects Processor
 
 This project is a real-time guitar effects processor built with JUCE and C++.
@@ -41,5 +42,7 @@ prepareToPlay() sets up buffers and sample rate.
 getNextAudioBlock() processes incoming audio in real time, applying effects.
 
 resized() handles GUI layout for effect controls and visualizer.
+
+<img width="1917" height="1019" alt="gui png" src="https://github.com/user-attachments/assets/2462fb4f-9be8-4c9c-9b7f-690a311a1a9d" />
 
 
